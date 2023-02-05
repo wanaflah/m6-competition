@@ -16,4 +16,4 @@ The importance of other factors, including judgmental and model-based prediction
 
 ## Hypothesis
 
-1. Univariate,simple models are able to perform *reasonably well* for forecasting 1-day ahead price.
+- [ ] Univariate/simple models are able to perform *reasonably well* for forecasting 1-day ahead price.

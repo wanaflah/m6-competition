@@ -1,0 +1,12 @@
+numpy
+pandas
+tqdm
+ipython
+black
+sktime
+openpyxl
+matplotlib
+pmdarima
+torch
+prophet
+statsmodels

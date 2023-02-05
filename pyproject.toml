@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "m6"
+authors = [
+    {name = "Aflah", email = "aflahke@gmail.com"},
+]
+description = "m6 competition - aflah's experiments"
+readme = "README.rst"
+requires-python = ">=3.10"
+keywords = ["m6"]
+license = {text = "BSD-3-Clause"}
+dynamic = ["version"]
